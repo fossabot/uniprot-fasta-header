@@ -1,6 +1,7 @@
 # Uniprot-fasta-header
 
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjeanmanguy%2Funiprot-fasta-header.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjeanmanguy%2Funiprot-fasta-header?ref=badge_shield)
 
 Parse [Uniprot fasta headers](https://www.uniprot.org/help/fasta-headers).
 
@@ -63,3 +64,5 @@ Please report new bugs and weird Fasta headers by creating a new issue on the [p
 ## License
 
 Uniprot-fasta-header is distributed under the terms of the Apache License (Version 2.0). See [LICENSE](./LICENSE) for details.
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjeanmanguy%2Funiprot-fasta-header.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjeanmanguy%2Funiprot-fasta-header?ref=badge_large)
